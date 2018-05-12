@@ -1,0 +1,33 @@
+_repo: Les-mis-rables-Tome-IV--13-L-idylle-rue-Plumet-et-l--pop-e-rue-Saint-Denis_17518
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17518'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ex-convicts -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Epic literature'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+title: 'Les misérables Tome IV: L''idylle rue Plumet et l''épopée rue Saint-Denis'
+url: http://www.gutenberg.org/ebooks/17518
